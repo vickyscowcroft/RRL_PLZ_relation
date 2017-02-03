@@ -5,7 +5,7 @@
 * Using Spitzer data
 * Only for use in advance of Gaia DR2
 
-* To view rrl\_plz\_relation notebook properly install the jupyter notebook extensions: https://github.com/ipython-contrib/jupyter\_contrib\_nbextensions
+* To view rrl_plz_relation notebook properly install the jupyter notebook extensions: https://github.com/ipython-contrib/jupyter_contrib_nbextensions
 * This enables things like variable expansion in markdown. Haven't worked out how to get this to display in github yet. 
 
 * Current (3rd Feb 2017) IRAC PLZ relations:
